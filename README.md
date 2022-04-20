@@ -116,16 +116,6 @@ Putting everything we learned to practice
 * *Kafka*: Streaming
 
 
-### Prerequisites
-
-To get most out of this course, you should feel comfortable with coding and command line,
-and know the basics of SQL. Prior experience with Python will be helpful, but you can pick 
-Python relatively fast if you have experience with other programming languages.
-
-Prior experience with data engineering is not required.
-
-
-
 ## Instructors
 
 - Ankush Khanna (https://linkedin.com/in/ankushkhanna2)
